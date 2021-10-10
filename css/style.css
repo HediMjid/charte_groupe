@@ -1,0 +1,53 @@
+.pl-droite{
+	position:absolute;
+	right:10px;
+	top:0px;
+}
+
+/*.rouge{
+	background-color:#e40034;
+	color:#ffffff;
+}*/
+
+body{
+	background-color:#f3f6f8;
+}
+
+.header{
+	background-color: #ffffff;
+	box-shadow: 10px 5px 5px #eeeeee;
+	margin-bottom: 45px;
+	padding-bottom: 30px;
+}
+.panneau{
+	background-color: #ffffff;
+	border-radius: 10px;
+	box-shadow: 10px 5px 5px #eeeeee;
+	margin-bottom: 30px;
+	padding :  10px 10px 10px 10px;
+}
+
+h4{
+	display : inline;
+}
+.etendre{
+	font-size: 14px;
+	padding-left: 10px;
+}
+
+ul{
+	list-style-image: url("../images/bullet.png");
+}
+
+.listes{
+	display:none;
+}
+
+.active{
+	display: block;
+}
+
+
+.text-center{
+	text-align: center;
+}
